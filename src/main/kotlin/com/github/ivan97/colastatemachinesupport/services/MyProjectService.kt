@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.ivan97.colastatemachinesupport.services
 
+import com.github.ivan97.colastatemachinesupport.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
